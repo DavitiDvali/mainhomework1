@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container1 {
+  height: 275px;
+  width: 240px;
+  background-color: #faf4ef;
+  margin: 50px auto;
+  border-bottom-left-radius: 30px;
+}
+
+h3 {
+  padding-top: 30px;
+  padding-left: 28px;
+  font-family: "DM Serif Display", serif;
+  font-weight: 500;
+  font-size: 22px;
+  color: #4b4b4b;
+  margin-bottom: 3px;
+}
+
+p {
+  padding-left: 28px;
+  font-family: "DM Serif Display", serif;
+  color: #737373;
+}
+
+img {
+  width: 65%;
+  /* height: 60% ; */
+
+  margin: 20px 50px 0px 40px ;
+}
